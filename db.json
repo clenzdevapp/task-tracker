@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Body Combat",
+      "day": "25.08.2021",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Alpaka Action",
+      "day": "ALWAYS",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "Koala Eskalation",
+      "day": "Oh Dear Lord",
+      "reminder": false,
+      "id": 3
+    }
+  ]
+}
